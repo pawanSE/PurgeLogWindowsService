@@ -1,0 +1,9 @@
+Purge Log Service is started at 09-02-2022 16:46:40
+Organization path from config - C:\Purge_logs\Organization\
+Organization file count from config - 12
+OrgService is stopped at 09-02-2022 16:46:40
+contactFiles file count from config - 6
+ContactService is stopped at 09-02-2022 16:46:40
+logsFiles file count from config - 3
+LogsService is stopped at 09-02-2022 16:46:40
+Service is stopped at 09-02-2022 16:50:13

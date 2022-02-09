@@ -1,0 +1,17 @@
+C:\Users\AM\source\repos\Purge_log_for_Rupella\Purge_log_for_Rupella\bin\Debug\Purge_log_for_Rupella.exe.config
+C:\Users\AM\source\repos\Purge_log_for_Rupella\Purge_log_for_Rupella\bin\Debug\Purge_log_for_Rupella.exe
+C:\Users\AM\source\repos\Purge_log_for_Rupella\Purge_log_for_Rupella\bin\Debug\Purge_log_for_Rupella.pdb
+C:\Users\AM\source\repos\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.ProjectInstaller.resources
+C:\Users\AM\source\repos\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.csproj.GenerateResource.cache
+C:\Users\AM\source\repos\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.csproj.CoreCompileInputs.cache
+C:\Users\AM\source\repos\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.exe
+C:\Users\AM\source\repos\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.pdb
+C:\Users\AM\source\repos\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.csprojAssemblyReference.cache
+C:\Amiciss\Purge_log_for_Rupella\Purge_log_for_Rupella\bin\Debug\Purge_log_for_Rupella.exe.config
+C:\Amiciss\Purge_log_for_Rupella\Purge_log_for_Rupella\bin\Debug\Purge_log_for_Rupella.exe
+C:\Amiciss\Purge_log_for_Rupella\Purge_log_for_Rupella\bin\Debug\Purge_log_for_Rupella.pdb
+C:\Amiciss\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.ProjectInstaller.resources
+C:\Amiciss\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.csproj.GenerateResource.cache
+C:\Amiciss\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.csproj.CoreCompileInputs.cache
+C:\Amiciss\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.exe
+C:\Amiciss\Purge_log_for_Rupella\Purge_log_for_Rupella\obj\Debug\Purge_log_for_Rupella.pdb
